@@ -1,4 +1,4 @@
-package com.mycompany.redditautoresponse;
+package com.vonnom.redditautoresponse;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
