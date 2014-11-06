@@ -1,4 +1,4 @@
-package com.mycompany.redditautoresponse;
+package com.vonnom.redditautoresponse;
 
 /**
  * Hello world!
